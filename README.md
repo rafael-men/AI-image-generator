@@ -17,7 +17,7 @@ Esta é uma API para geração de imagens usando modelos de inteligência artifi
 ## Pré-requisitos
 
 - Node.js
-- Chave de API para o modelo de IA (A partir dos critérios da hugging face).
+- Chave de API para o modelo de IA (obtida após criar conta nos serviços da hugging face).
 
 ## Como Rodar o Projeto
 
